@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.background {
+  background-image: linear-gradient(to right, #ffffff, #cffcf1);
+  height: 100vh;
+  background-size: cover;
+}
+
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
